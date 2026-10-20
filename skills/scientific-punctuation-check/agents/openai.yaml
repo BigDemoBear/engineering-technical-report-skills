@@ -1,0 +1,4 @@
+interface:
+  display_name: "科技文稿标点与序号检查"
+  short_description: "结合上下文检查标点、标题与分项序号，保护公式、代码和文献格式并列出语义疑点"
+  default_prompt: "使用 $scientific-punctuation-check 检查这份科技文稿的标点与序号，结合上下文给出定位、建议和依据。"

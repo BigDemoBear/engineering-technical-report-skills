@@ -1,0 +1,4 @@
+interface:
+  display_name: "科学技术报告写作"
+  short_description: "基于真实资料撰写科技报告，使用默认格式或按样例制作专用模板，核对证据、编号与版式"
+  default_prompt: "使用 $scientific-technical-report，基于我提供的资料撰写科学技术报告，保留来源并核对公式、数据和结论。"

@@ -1,0 +1,2 @@
+# Needed only for DOCX template building and format auditing.
+python-docx
